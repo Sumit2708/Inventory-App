@@ -1,0 +1,16 @@
+.main {
+  display: grid;
+  align-content: center;
+  grid-template-columns: auto auto;
+  width: auto;
+  margin-top: 40px;
+}
+.sub {
+  background-image: linear-gradient(to bottom, lightblue, white);
+  text-align: center;
+  padding: 80px;
+}
+
+h3 {
+  text-align: center;
+}
